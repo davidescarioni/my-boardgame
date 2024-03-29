@@ -17,6 +17,14 @@ La vittoria militare e quella scientifica possono verificarsi in qualsiasi momen
   - **Regolamento**:
     - [Link esterno](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel-pantheon/it/7dpa-rules-it-16245352255fvc2.pdf)
   - **Descrizione**: Questa **espansione per 7 Wonders Duel** offre ai giocatori la capacità di invocare potenti Divinità per benefi ciare dei loro poteri. Durante l’Epoca I, i giocatori scelgono quali Divinità saranno in grado di evocare durante le Epoche II e III. I Grandi Templi fanno la loro comparsa e prendono il posto delle Gilde.
+ 
+- [BANG! The Duel](https://bang.dvgiochi.com/prod.php?id=10)
+  - **Giocatori**: 2
+  - **Durata**: 30m
+  - **Regolamento**:
+    - [Link locale]()
+    - [Link esterno](https://www.dvgiochi.com/giochi/Bang-TheDuel/download/Bang_TheDuel_Rules_ITA.pdf)
+  - **Descrizione**: Per ogni fazione si schierano due personaggi alla volta, uno in prima linea e uno in retroguardia: solo chi saprà utilizzare con attenzione il posizionamento dei propri pistoleri, e le proprie abilità e risorse, farà mordere la polvere al suo avversario e risulterà vincitore!
 
 - [Chartae](https://www.xvgames.it/chartae/)
   - **Giocatori**: 2
@@ -30,6 +38,15 @@ La vittoria militare e quella scientifica possono verificarsi in qualsiasi momen
   - **Regolamento**:
     - [Link esterno](https://www.dropbox.com/s/gjlt5ik6yp4m9bt/MSEDIZIONI-CLAIM_REGOLAMENTO.pdf?dl=0)
   - **Descrizione**: Una partita a Claim si divide in due fasi distinte: nella prima si giocano carte per reclutare Seguaci, nella seconda si usano i Seguaci appena reclutati per contendersi il voto delle cinque fazioni. A fine partita, il voto di ogni fazione andrà al giocatore che avrà la maggioranza di seguaci: chi otterrà il voto di almeno 3 fazioni vincerà la partita e sarà incoronato Re! La meccanica è simile a quella di Briscola.
+ 
+- [Jaipur](https://www.spacecowboys.fr/jaipur-english)
+  - **Giocatori**: 2
+  - **Durata**: 30m
+  - **Regolamento**:
+    - [Link locale]()
+    - [Link esterno](https://www.spacecowboys.fr/_files/ugd/59baa2_668d47414cf6481d97060052b7238b2d.pdf)
+  - **Descrizione**: A Jaipur, speri di diventare il commerciante personale del Maharaja accumulando più ricchezze del tuo avversario alla fine di ogni settimana. Per fare ciò, raccogliere e scambiare merci al mercato, quindi venderle per rupie. Se riesci a organizzare una vendita più ampia, riceverai una ricompensa. I cammelli non hanno valore di vendita, ma sono molto utili per il commercio, soprattutto quando vuoi molte merci dal mercato.
+Alla fine di ogni round, il trader più ricco riceve un Sigillo di Eccellenza. Il primo giocatore a collezionare 2 Sigilli di Eccellenza vince la partita.
     
 - [Nome in codice](https://www.craniocreations.it/prodotto/nome-in-codice)
   - **Giocatori**: 4-8
