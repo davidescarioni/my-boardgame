@@ -58,6 +58,22 @@ Ogni giocatore al suo turno deve scegliere se pescare carte dal mazzo, giocare u
     - [Link esterno](https://www.dvgiochi.com/giochi/origami-leggende/download/Origami-Legends_ITA_Rules.pdf)
   - **Descrizione**: Espansione **stand-alone** di Origami. Vengono aggiunte le famiglie di animali polari, animali esotici, dinosauri e creature leggendarie, ognuna con meccaniche proprie e diverse da quelle del gioco base.
 
+- [Plagio](https://www.studiogiochi.com/pubblicazioni/plagio-it-2/)
+  - **Giocatori**: 4+
+  - **Durata**: 20
+  - **Regolamento**:
+    - [Link locale]()
+    - [Link esterno](https://www.studiogiochi.com/files/studiogiochi.com/giochi/319/Plagio-regolamento%20IT.pdf)
+  - **Descrizione**: I giocatori devono completare segretamente su un foglio le frasi tratte da famose opere letterare, facendo in modo che la propria versione sia credibile. Si raccolgono tutti i fogli e si leggono tutte le possibili continuazioni di frase date dai giocatori, più quella vera. Si accumulano punti indicando la frase corretta e se gli altri giocatori indicano come “corretta” la propria frase! Il gioco rielabora e amplia un prodotto precedente che lo stesso autore aveva precedentemente pubblicato in proprio.
+
+- [Santorini](https://roxley.com/collections/all/products/santorini)
+  - **Giocatori**: 2-4
+  - **Durata**: 8-30m
+  - **Regolamento**:
+    - [Link locale]()
+    - [Link esterno](https://lepartiltutto.wordpress.com/2017/03/18/perche-si-santorini/)
+  - **Descrizione**: Santorini è un gioco di strategia puramente astratto in cui giochi nei panni di un giovane dio o dea greca in competizione per aiutare al meglio i cittadini dell'isola nella costruzione di un bellissimo villaggio nel mezzo del Mar Egeo.
+    
 - [Template]()
   - **Giocatori**: 
   - **Durata**: 
