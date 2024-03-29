@@ -23,6 +23,13 @@ La vittoria militare e quella scientifica possono verificarsi in qualsiasi momen
   - **Durata**: 10m
   - **Regolamento**: [Link]()
   - **Descrizione**: I giocatori prendono il ruolo di cartografi che discutono sulla mappa della loro ultima scoperta.
+ 
+- [Claim](https://www.msedizioni.it/claim/)
+  - **Giocatori**: 2
+  - **Durata**: 25m
+  - **Regolamento**:
+    - [Link esterno](https://www.dropbox.com/s/gjlt5ik6yp4m9bt/MSEDIZIONI-CLAIM_REGOLAMENTO.pdf?dl=0)
+  - **Descrizione**: Una partita a Claim si divide in due fasi distinte: nella prima si giocano carte per reclutare Seguaci, nella seconda si usano i Seguaci appena reclutati per contendersi il voto delle cinque fazioni. A fine partita, il voto di ogni fazione andrà al giocatore che avrà la maggioranza di seguaci: chi otterrà il voto di almeno 3 fazioni vincerà la partita e sarà incoronato Re! La meccanica è simile a quella di Briscola.
     
 - [Nome in codice](https://www.craniocreations.it/prodotto/nome-in-codice)
   - **Giocatori**: 4-8
