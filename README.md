@@ -83,6 +83,16 @@ Ogni giocatore al suo turno deve scegliere se pescare carte dal mazzo, giocare u
     - [Link esterno](https://www.studiogiochi.com/files/studiogiochi.com/giochi/319/Plagio-regolamento%20IT.pdf)
   - **Descrizione**: I giocatori devono completare segretamente su un foglio le frasi tratte da famose opere letterare, facendo in modo che la propria versione sia credibile. Si raccolgono tutti i fogli e si leggono tutte le possibili continuazioni di frase date dai giocatori, più quella vera. Si accumulano punti indicando la frase corretta e se gli altri giocatori indicano come “corretta” la propria frase! Il gioco rielabora e amplia un prodotto precedente che lo stesso autore aveva precedentemente pubblicato in proprio.
 
+- [RRR](https://www.xvgames.it/rrr/)
+  - **Giocatori**: 2
+  - **Durata**: 15m
+  - **Regolamento**:
+    - [Link locale]()
+    - [Link esterno](https://www.xvgames.it/wp-content/uploads/2020/09/rrr-italiano.pdf)
+  - **Descrizione**: In tutte le epoche, il potere corrompe.
+In questa terra dove la pace ha regnato per lungo tempo, un uccellino ha sussurrato sia al Re che al Papa: “Solo una persona potrà governare queste terre, e tu sei il prescelto!”
+Entrambi hanno così iniziato una battaglia silenziosa per il dominio del regno. Nessuno può prevedere il risultato finale.
+
 - [Santorini](https://roxley.com/collections/all/products/santorini)
   - **Giocatori**: 2-4
   - **Durata**: 8-30m
